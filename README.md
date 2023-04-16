@@ -10,3 +10,4 @@ To build this package, do the following steps:
 To clean the repository run `./bootstrap.sh clean`.
 ```
 There is no bootstrap.sh, or configure.  These build instructions are incorrect.
+And meson breaks on a libsystemd missing
